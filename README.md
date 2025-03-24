@@ -1,2 +1,2 @@
 # formIT
-initial project for formIT
+this project is the initialization of web formIT
